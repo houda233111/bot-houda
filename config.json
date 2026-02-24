@@ -12,28 +12,28 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "YOUR BOT NAME 🐤",
+  "nickNameBot": "𝑯𝑶𝑼𝑫𝑨-𝑩𝑶𝑻 3>>>>",
   "prefix": ",",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "100078859776449"
+    "615001964"
   ],
   "premiumUsers": [
-    "100078859776449"
+    "615001964"
   ],
   "devUsers": [
-    "100078859776449"
+    "615001964"
   ],
   "notes_premiumUsers": "List of user IDs with premium access (role 3)",
   "notes_devUsers": "List of developer IDs with full access (role 4)",
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100078859776449",
-      "61582151946617"
+      "615001964",
+      "61587960172021"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
   },
